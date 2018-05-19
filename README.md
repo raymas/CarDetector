@@ -5,7 +5,7 @@ This script can process a video file or an image.
 
 Example, from J Utah Youtube channel (https://www.youtube.com/watch?v=qfRlmwjD2Fs) :
 
-<iframe src='https://gfycat.com/ifr/MadRingedIndianrhinoceros' frameborder='0' scrolling='no' width='720' height='394' allowfullscreen></iframe><p> <a href="https://gfycat.com/gifs/detail/MadRingedIndianrhinoceros">via Gfycat</a></p>
+![alt text](https://raw.githubusercontent.com/raymas/CarDetector/master/Ressources/preview.gif)
 
 ## Getting Started
 
