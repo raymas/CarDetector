@@ -5,7 +5,7 @@ This script can process a video file or an image.
 
 Example, from J Utah Youtube channel (https://www.youtube.com/watch?v=qfRlmwjD2Fs) :
 
-![alt text](https://raw.githubusercontent.com/raymas/CarDetector/master/Ressources/preview.gif)
+![preview](https://raw.githubusercontent.com/raymas/CarDetector/master/Ressources/preview.gif)
 
 ## Getting Started
 
