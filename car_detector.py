@@ -4,15 +4,15 @@ import argparse
 import time
 import os
 
-def main(): 
+def main():
 	pass
 
 
 if __name__ == '__main__' :
-	parser = argparse.ArgumentParser(description='Script to run haarcascade detetcion method')
+	parser = argparse.ArgumentParser(description='Script to run haarcascade detection method')
 	parser.add_argument("--video", help="path to video file. If empty, camera's stream will be used")
 	parser.add_argument("--write", help="Write output to file")
-	parser.add_argument("--length", type=int, default=20, help="Max processing time in second for video, default is 20 seconds")
+	parser.add_argument("--length", type=int, default=20, help="Max processing time in second for video output, default is 20 seconds")
 	args = parser.parse_args()
 
 	car_cascade = cv2.CascadeClassifier(os.path.dirname(os.path.realpath(__file__)) + '\\cars.xml')
